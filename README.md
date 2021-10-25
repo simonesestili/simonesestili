@@ -1,7 +1,7 @@
 # Hey there 👋
 
--  📖 **I really enjoy studying data structures & algorithms | [Leetcode Profile](https://leetcode.com/simonesestili/)**
--  🌐 **I also really like web development, some of my favorite technologies are: React.js, Express.js, Django, MongoDB**
+-  📖 **I like studying data structures & algorithms | [Leetcode Profile](https://leetcode.com/simonesestili/)**
+-  🌐 **I also like web development, some of my favorite technologies are: React.js, Express.js, Django, and MongoDB**
 -  🎓 **Lifelong Learner | “For the things we have to learn before we can do them, we learn by doing them” ― Aristotle**
 
 
