@@ -6,4 +6,4 @@
 -  🎓 **Lifelong Learner**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonesestili&layout=compact) [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)]()
+[![Simone's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=simonesestili&theme=dark)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonesestili&layout=compact)
