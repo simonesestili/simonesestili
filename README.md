@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/dbusyxb.gif" alt="Hello World!" />
+# Hello World!
 
 -  📖 **I like studying data structures & algorithms | [Leetcode Profile](https://leetcode.com/simonesestili/)**
 -  👨‍💻 **Check out some of my python3 solutions to Leetcode problems [HERE](https://github.com/simonesestili/problems-dsa)**
